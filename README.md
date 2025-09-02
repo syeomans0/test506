@@ -1,2 +1,4 @@
-# test506
-This is a test repo for statistics 506 at UMich.
+# Test repository for STATS 506
+
+This is a repository demonstrating git usage.
+
